@@ -7,7 +7,18 @@ This project solves the influence of social media usage on academic performance 
 Microsoft Excel(Data Source)
 Git & GitHub
 # Steps Taken:
-Data Cleaning using Microsoft Excel to expand our headers for clarity. Our dataset did not need much cleaning thankfully.
+1. Data Cleaning
+   Formatted all columns and names.
+   Enlarged our headers for clarity
+   Removed duplicates and inconsistent values.
+   Deleted irrelevant inputs.
+3. Data Analysis
+   Daily time spent on social media
+   Mental health score
+   Level of addiction
+4. Data Visualization
+   Used Bar chart to measure daily time spent on social media
+   Pie chart showing percentage of health score
 # Key Findings: 
 Students in countries like the USA, Bangladesh, and India exhibit the highest average daily social media usage, exceeding 6 hours, which points to regional hotspots for potential intervention.
 # Recommendation: 
