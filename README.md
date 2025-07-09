@@ -1,4 +1,4 @@
-# Project Title: How Social Media Usage Affets Student Academic Performance Outcomes
+# Project Title: How Social Media Usage Affects Student Academic Performance Outcomes
 # Summary: 
 This project explores how social media usage affects students at different academic levels(high school, undergradiate, graduate).
 # The Problem It Solves: 
