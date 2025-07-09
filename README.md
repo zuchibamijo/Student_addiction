@@ -9,16 +9,16 @@ Git & GitHub
 # Steps Taken:
 1. Data Cleaning
    Formatted all columns and names.
-   Enlarged our headers for clarity
+   Enlarged our headers for clarity.
    Removed duplicates and inconsistent values.
    Deleted irrelevant inputs.
 3. Data Analysis
-   Daily time spent on social media
-   Mental health score
-   Level of addiction
+   Daily time spent on social media.
+   Mental health score.
+   Level of addiction.
 4. Data Visualization
-   Used Bar chart to measure daily time spent on social media
-   Pie chart showing percentage of health score
+   Used Bar chart to measure daily time spent on social media.
+   Pie chart showing percentage of health score.
 # Key Findings: 
 Students in countries like the USA, Bangladesh, and India exhibit the highest average daily social media usage, exceeding 6 hours, which points to regional hotspots for potential intervention.
 # Recommendation: 
